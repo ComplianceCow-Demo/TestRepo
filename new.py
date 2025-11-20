@@ -21,4 +21,4 @@ for n in numbers:
 def greet(name):
     return f"Hello, {name}!"
 
-print(greet("Santhosh"))
+print(greet("kumar"))
