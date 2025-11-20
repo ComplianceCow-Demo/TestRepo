@@ -9,4 +9,4 @@ def fetch_user(username):
 
     return resp.json()
 
-print(fetch_user("octocat"))
+print(fetch_user("test"))
