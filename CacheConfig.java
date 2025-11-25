@@ -8,13 +8,13 @@ public class TTLExtractor {
             Duration.ofMinutes(30).toMillis();
 
     private static final long STORED_CARD_TTL_MILLIS =
-            Duration.ofHours(12).toMillis();
+            Duration.ofHours(48).toMillis();
 
     public static void main(String[] args) {
 
         String source = """
                 NEW_CARD_TTL_MILLIS = Duration.ofMinutes(30).toMillis();
-                STORED_CARD_TTL_MILLIS = Duration.ofHours(12).toMillis();
+                STORED_CARD_TTL_MILLIS = Duration.ofHours(48).toMillis();
                 """;
 
         // Regex patterns based on your jq expressions
