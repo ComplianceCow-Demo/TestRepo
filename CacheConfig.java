@@ -12,11 +12,7 @@ public class TTLExtractor {
 
     public static void main(String[] args) {
 
-        String source = """
-                NEW_CARD_TTL_MILLIS = Duration.ofMinutes(30).toMillis();
-                STORED_CARD_TTL_MILLIS = Duration.ofHours(48).toMillis();
-                """;
-
+        
         // Regex patterns based on your jq expressions
         Pattern newCardPattern = Pattern.compile(
                 "NEW_CARD_TTL_MILLIS\\s*=\\s*Duration\\.ofMinutes\\((?<val>\\d+)\\)\\.toMillis\\(\\)"
