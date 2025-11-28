@@ -4,3 +4,6 @@ z=x+y
 print(z)
 
 print("Kishore")
+
+TEAM = "TIGER"
+print(TEAM)
