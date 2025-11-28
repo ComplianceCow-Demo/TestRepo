@@ -10,3 +10,18 @@ print(TEAM)
 
 Power = ["Kishore","TREE","UNUSED"]
 print(Power)
+
+x = 10   
+
+def show():
+    print(x)  
+
+show()
+print(x)
+
+Time = "BAD"
+
+def show ()
+    print(show)
+show ()
+print(Time)
