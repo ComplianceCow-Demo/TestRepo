@@ -18,3 +18,10 @@ def show():
 
 show()
 print(x)
+
+Time = "BAD"
+
+def show ()
+    print(show)
+show ()
+print(Time)
