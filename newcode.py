@@ -10,3 +10,5 @@ print(TEAM)
 
 Power = ["Kishore","TREE","UNUSED"]
 print(Power)
+
+NEW 
