@@ -3,9 +3,13 @@ print("Kishore")
 TEAM = "TIGER"
 print(TEAM)
 
-new = {"kishore","Kishore","HET"}
-print(new)
+Power = ["Kishore","TREE","UNUSED"]
+print(Power)
 
-print("Kishore")
+x = 10   
 
-'NEW CODE'
+def show():
+    print(x, "show")  
+
+show()
+print(x)
