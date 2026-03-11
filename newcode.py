@@ -3,7 +3,7 @@ print("Kishore")
 TEAM = "TIGER"
 print(TEAM)
 
-new = {"kishore","Kishore","HET"}
-print(new)
+Power = ["Kishore","TREE","UNUSED"]
+print(Power)
 
 print("Kishore")
