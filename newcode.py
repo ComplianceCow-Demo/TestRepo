@@ -14,7 +14,7 @@ print(Power)
 x = 10   
 
 def show():
-    print(x)  
+    print(x, "show")  
 
 show()
 print(x)
