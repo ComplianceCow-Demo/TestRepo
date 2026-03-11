@@ -7,3 +7,5 @@ new = {"kishore","Kishore","HET"}
 print(new)
 
 print("Kishore")
+
+'NEW CODE'
