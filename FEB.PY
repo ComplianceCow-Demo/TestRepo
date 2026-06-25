@@ -3,6 +3,8 @@
 # Print something
 print("Hello, Python!")
 
+print("New line added")
+
 # Add two numbers
 a = 10
 b = 20
