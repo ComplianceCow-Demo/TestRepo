@@ -8,6 +8,7 @@ a = 10
 b = 20
 sum_value = a + b
 print("Sum:", sum_value)
+print("Sum completed")
 
 # Create a list
 numbers = [1, 2, 3, 4, 5]
