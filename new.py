@@ -24,3 +24,6 @@ def greet(name):
 
 print ("kishore")
 
+print("kishore")
+
+
