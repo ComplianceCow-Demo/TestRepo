@@ -10,3 +10,5 @@ def fetch_user(username):
     return resp.json()
 
 print(fetch_user("test"))
+
+print("Over")
